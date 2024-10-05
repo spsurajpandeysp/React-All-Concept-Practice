@@ -1,0 +1,42 @@
+
+.row{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: aqua
+}
+.col-4{
+    margin: 5px;
+    background-color: yellow;
+    padding: 10px;
+}
+.add-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 5px;
+    border-radius: 5px;
+    width: 450px;
+    margin: 10px;
+    background-color:brown;
+}
+.btns{
+    background-color: green;
+    color:white;
+    border-radius: 10px;
+    border: 2px solid green;
+
+}
+.items-container{
+    border:2px solid black; 
+    width:fit-content;
+
+}
+.inputTags{
+    margin-left: 20px;
+    margin-right:20px ;
+}
+
+

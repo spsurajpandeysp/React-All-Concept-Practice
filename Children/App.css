@@ -1,0 +1,16 @@
+.heading{
+    padding: 5px;
+    color:blue;
+}
+.item-data{
+    background-color: greenyellow;
+    margin: 10px;
+
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+}
+.btn-item{
+    background-color: aqua;
+    border: 2px solid red;
+}

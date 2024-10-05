@@ -1,0 +1,45 @@
+
+.row{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: aqua
+}
+.col-4{
+    margin: 5px;
+}
+.add-row{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    border-radius: 5px;
+    width: 450px;
+    margin: 10px;
+    background-color: brown;
+}
+.btns{
+    background-color: green;
+    color:white;
+    border-radius: 10px;
+    border: 2px solid green;
+}
+.items-container{
+    border:2px solid black; 
+    width:fit-content;
+
+}
+.div-container{
+    width: ;
+}
+.div-form{
+   background-color:brown;
+   display:flex;
+   gap:1rem;
+   padding: 20px 10px 20px 10px;
+   margin: 20px;
+}
+.items-container{
+    margin: auto;
+}
